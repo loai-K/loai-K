@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Loai Kanou**
 - 👨‍💻 I'm working as ***Full Stack Developer***
-- 🚀 I’m using in projects [Laravel, NodeJS, ReactJS, NextJS, VueJS]
+- 🚀 I’m using in projects [PHP, Laravel, Javascript, NodeJS, ReactJS, NextJS, VueJS]
 - 👀 I'm interested with [AI, ML, Python]
 - 🌱 I’m currently learning [NestJS]
 - 📫 How to reach me – loaikanou@gmail.com
